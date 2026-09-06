@@ -1,2 +1,5 @@
 # .github
-Official organization profile for CS3613 – Introduction to AI, providing an overview of the module workspace and links to notes, labs, in-class activities, assignments, coding projects, experiments, and other learning repositories.
+
+Organization profile and configuration repository for the CS3613 Introduction to Artificial Intelligence workspace.
+
+For the complete organization overview, repositories, and engineering standards, refer to the [Organization Profile](https://github.com/CS3613-Introduction-to-AI).
